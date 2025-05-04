@@ -12,3 +12,5 @@ Se realizara varios analisis mediante graficos y dataframes para obtener datos c
 Crear graficos que ayuden al analisis.
 
 Dar la tienda que debe vender en base al analisis de datos.
+
+Para usar el notebook use google colab y ejecute cada codigo de arriba a abajo en orden sin saltarse ninguno, y asi evitar errores.
